@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+tf_env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (IMPORTANT)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
