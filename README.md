@@ -43,7 +43,7 @@ The model is specifically trained to identify and distinguish between:
     ```
 
 ## 📂 Project Structure
-    ```Plaintext
+    ```
     ├── main.ipynb          # Full pipeline: Setup, Cleaning, Training, and Evaluation
     ├── data/               # Dataset root directory
     │   └── rice/           # Subfolders: Arborio, Basmati, Ipsala, Jasmine, Karacadag
