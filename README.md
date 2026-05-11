@@ -43,13 +43,11 @@ The model is specifically trained to identify and distinguish between:
     ```
 
 ## 📂 Project Structure
-    ```
     ├── main.ipynb          # Full pipeline: Setup, Cleaning, Training, and Evaluation
     ├── data/               # Dataset root directory
     │   └── rice/           # Subfolders: Arborio, Basmati, Ipsala, Jasmine, Karacadag
     └── test/               # Directory for testing unseen images
         └── rice_test1.jpg  # Sample test image
-    ```
 
 ## 🧪 Usage
 1. Prepare Data: Organize your dataset into the data/rice/ directory, with each variety in its own named folder.
